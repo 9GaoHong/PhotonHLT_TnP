@@ -141,7 +141,6 @@ PhoProbeVariablesToStore = cms.PSet(
     ph_abseta = cms.string("abs(eta)"),
     ph_et     = cms.string("et"),
     ph_e      = cms.string("energy"),
-
 ## super cluster quantities
     ph_sc_energy    = cms.string("superCluster.energy"),
     ph_sc_rawEnergy = cms.string("superCluster.rawEnergy"),

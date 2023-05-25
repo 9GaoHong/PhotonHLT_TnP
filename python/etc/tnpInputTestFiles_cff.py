@@ -27,7 +27,8 @@ filesMiniAOD_UL2016preVFP = {
 
 filesMiniAOD_UL2016postVFP = {
     'mc':   cms.untracked.vstring(''),
-    'data': cms.untracked.vstring('file:/eos/cms/store/group/phys_egamma/tnpTuples/testFiles/SingleElectron-Run2016F-21Feb2020_UL2016-postVFP.root'),
+    'data': cms.untracked.vstring('/store/data/Run2016F/SingleElectron/MINIAOD/UL2016_MiniAODv2-v2/270000/4C3CDA2A-5A33-D542-A15A-DE2B3CD924E7.root'),
+#    'data': cms.untracked.vstring('file:/eos/cms/store/group/phys_egamma/tnpTuples/testFiles/SingleElectron-Run2016F-21Feb2020_UL2016-postVFP.root'),
 }
 
 filesMiniAOD_UL2018 = {
@@ -39,7 +40,8 @@ filesMiniAOD_UL2018 = {
 
 filesMiniAOD_UL2017 = {
     'mc' :   cms.untracked.vstring('file:/eos/cms/store/group/phys_egamma/tnpTuples/testFiles/RunIISummer19UL17MiniAOD-DYJetsToLL_M-50.root'),
-    'data' : cms.untracked.vstring('file:/eos/cms/store/group/phys_egamma/tnpTuples/testFiles/SingleElectron-Run2017F-09Aug2019_UL2017.root'),
+    'data' : cms.untracked.vstring('/store/data/Run2017B/SingleElectron/MINIAOD/UL2017_MiniAODv2-v1/270000/02A40B83-4AFE-F049-8DA4-945BB2661B44.root'),
+#    'data' : cms.untracked.vstring('file:/eos/cms/store/group/phys_egamma/tnpTuples/testFiles/SingleElectron-Run2017F-09Aug2019_UL2017.root'),
 }
 
 
